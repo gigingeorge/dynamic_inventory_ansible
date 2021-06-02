@@ -1,4 +1,4 @@
-# Spinup EC2 and create dynamic inventory : Ansible 
+# Spin up EC2 and create dynamic inventory : Ansible 
 
 Here we am creating an EC2 instance and going to add a test page to created EC2 via a single playbook. 
 
