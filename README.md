@@ -124,3 +124,20 @@ Here I used count tag - exact count, which means the instance with tag name ment
     - "{{ec2_info.tagged_instances }}"
 ```
 This will create a dynamic inventory and store internally so that once the instance is provisioned, it's details will get added to the internal dynamic inventory file. 
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------ _Gigin George_ ---------------------------------------------------------------
+
+--------------------------------------- _linkedin.com/in/gigin-george-648679142_ -------------------------------------
+
+---------------------------------- _gigingkallumkal@gmail.com_ ---------------------------------------------------------
