@@ -1,8 +1,8 @@
-# Spinup EC2 and create dynamic invetory : Ansible 
+# Spinup EC2 and create dynamic inventory : Ansible 
 
 Here we am creating an EC2 instance and going to add a test page to created EC2 via a single playbook. 
 
-Since the instance IP can be opbtained only after creation, we can't use static inventory file. Hence we need to create a dynamic inventory file.
+Since the instance IP can be obtained only after creation, we can't use static inventory file. Hence we need to create a dynamic inventory file.
 Dynamic invetory is a feature on ansible that it will store the host file details internally. 
 
 I used add_host module to create dynamic inventory. 
