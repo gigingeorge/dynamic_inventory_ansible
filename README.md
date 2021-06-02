@@ -126,7 +126,7 @@ Here I used count tag - exact count, which means the instance with tag name ment
 This will create a dynamic inventory and store internally so that once the instance is provisioned, it's details will get added to the internal dynamic inventory file. 
 
 
-
+![alt text](https://i.ibb.co/V9Z697Q/Screenshot.png)
 
 
 
